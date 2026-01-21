@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=Vin Pin=IC3-1
+Removed Member From Class: ClassName=This is my A Schematic Document Member=IC3
+Removed Member From Class: ClassName=This is my A Schematic Document Member=IC4
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=IC4 NewDesignator=IC2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Add component: Footprint Not Found 18772852
+Added Pin To Net: NetName=3.3V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=3.3V Pin=IC1-3
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Pin To Net: NetName=SDA Pin=J2-1
+Added Pin To Net: NetName=SCL Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Change Net Name : Old Net Name=NetIC4_5 New Net Name=NetIC2_5
+Added Member To Class: ClassName=Connectors Member=Component J3 1877285-2
