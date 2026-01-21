@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Top_Level.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top_Level.SchDoc|Designator=This is my A Schematic Document|SchDesignator=This is my A Schematic Document|FileName=A.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=A.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

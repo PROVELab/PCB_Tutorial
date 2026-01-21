@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=FL? NewDesignator=FL1
+Change Component Designator: OldDesignator=IC? NewDesignator=IC4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetIC?_1 New Net Name=NetIC4_1
+Change Net Name : Old Net Name=NetIC?_4 New Net Name=NetIC4_4
+Change Net Name : Old Net Name=NetIC?_5 New Net Name=NetIC4_5
+Added Member To Class: ClassName=This is my A Schematic Document Member=Component C3 4.7n
+Added Member To Class: ClassName=This is my A Schematic Document Member=Component R1 60.4
+Added Member To Class: ClassName=This is my A Schematic Document Member=Component R3 10k
